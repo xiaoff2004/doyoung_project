@@ -1,0 +1,42 @@
+game\main.o: ../Core/Src/main.c
+game\main.o: ../Core/Inc/main.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\main.o: ../Core/Inc/stm32f4xx_hal_conf.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+game\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+game\main.o: ../Drivers/CMSIS/Include/core_cm4.h
+game\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+game\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+game\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+game\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+game\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+game\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+game\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+game\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+game\main.o: ../Core/Inc/dma.h
+game\main.o: ../Core/Inc/tim.h
+game\main.o: ../Core/Inc/usart.h
+game\main.o: ../Core/Inc/gpio.h
+game\main.o: ../bsp/oled.h
+game\main.o: ../bsp/servo.h
+game\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdio.h
+game\main.o: ../MDK-ARM/contrl.h
+game\main.o: ../MDK-ARM/task.h

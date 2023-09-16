@@ -1,0 +1,30 @@
+buzzer\tim.o: ../Core/Src/tim.c
+buzzer\tim.o: ../Core/Inc/tim.h
+buzzer\tim.o: ../Core/Inc/main.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+buzzer\tim.o: ../Core/Inc/stm32f1xx_hal_conf.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+buzzer\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+buzzer\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+buzzer\tim.o: ../Drivers/CMSIS/Include/core_cm3.h
+buzzer\tim.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+buzzer\tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
+buzzer\tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+buzzer\tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+buzzer\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+buzzer\tim.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+buzzer\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h

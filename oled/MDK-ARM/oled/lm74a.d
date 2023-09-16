@@ -1,0 +1,30 @@
+oled\lm74a.o: ..\bsp\LM74A.c
+oled\lm74a.o: ..\bsp\LM75A.h
+oled\lm74a.o: ../Core/Inc/main.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+oled\lm74a.o: ../Core/Inc/stm32f1xx_hal_conf.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+oled\lm74a.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+oled\lm74a.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+oled\lm74a.o: ../Drivers/CMSIS/Include/core_cm3.h
+oled\lm74a.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+oled\lm74a.o: ../Drivers/CMSIS/Include/cmsis_version.h
+oled\lm74a.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+oled\lm74a.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+oled\lm74a.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+oled\lm74a.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+oled\lm74a.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+oled\lm74a.o: ../Core/Inc/i2c.h

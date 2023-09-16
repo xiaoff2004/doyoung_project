@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp
+"duo\startup_stm32f411xe.o"
+"duo\main.o"
+"duo\gpio.o"
+"duo\tim.o"
+"duo\stm32f4xx_it.o"
+"duo\stm32f4xx_hal_msp.o"
+"duo\stm32f4xx_hal_tim.o"
+"duo\stm32f4xx_hal_tim_ex.o"
+"duo\stm32f4xx_hal_rcc.o"
+"duo\stm32f4xx_hal_rcc_ex.o"
+"duo\stm32f4xx_hal_flash.o"
+"duo\stm32f4xx_hal_flash_ex.o"
+"duo\stm32f4xx_hal_flash_ramfunc.o"
+"duo\stm32f4xx_hal_gpio.o"
+"duo\stm32f4xx_hal_dma_ex.o"
+"duo\stm32f4xx_hal_dma.o"
+"duo\stm32f4xx_hal_pwr.o"
+"duo\stm32f4xx_hal_pwr_ex.o"
+"duo\stm32f4xx_hal_cortex.o"
+"duo\stm32f4xx_hal.o"
+"duo\stm32f4xx_hal_exti.o"
+"duo\system_stm32f4xx.o"
+--strict --scatter "Duo\Duo.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Duo.map" -o Duo\Duo.axf

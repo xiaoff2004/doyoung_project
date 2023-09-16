@@ -1,0 +1,36 @@
+game\contrl.o: contrl.c
+game\contrl.o: contrl.h
+game\contrl.o: ../Core/Inc/main.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\contrl.o: ../Core/Inc/stm32f4xx_hal_conf.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+game\contrl.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\contrl.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+game\contrl.o: ../Drivers/CMSIS/Include/core_cm4.h
+game\contrl.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+game\contrl.o: ../Drivers/CMSIS/Include/cmsis_version.h
+game\contrl.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+game\contrl.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+game\contrl.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+game\contrl.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+game\contrl.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+game\contrl.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+game\contrl.o: ../bsp/servo.h
+game\contrl.o: ../bsp/oled.h

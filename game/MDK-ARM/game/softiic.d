@@ -1,0 +1,35 @@
+game\softiic.o: ..\bsp\softiic.c
+game\softiic.o: ..\bsp\softiic.h
+game\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+game\softiic.o: ../Drivers/CMSIS/Include/core_cm4.h
+game\softiic.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+game\softiic.o: ../Drivers/CMSIS/Include/cmsis_version.h
+game\softiic.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+game\softiic.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+game\softiic.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+game\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\softiic.o: ../Core/Inc/stm32f4xx_hal_conf.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+game\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+game\softiic.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+game\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+game\softiic.o: ../Core/Inc/tim.h
+game\softiic.o: ../Core/Inc/main.h

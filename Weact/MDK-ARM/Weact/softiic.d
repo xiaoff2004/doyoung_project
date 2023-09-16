@@ -1,0 +1,35 @@
+weact\softiic.o: ..\bsp\softiic.c
+weact\softiic.o: ..\bsp\softiic.h
+weact\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+weact\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+weact\softiic.o: ../Drivers/CMSIS/Include/core_cm4.h
+weact\softiic.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+weact\softiic.o: ../Drivers/CMSIS/Include/cmsis_version.h
+weact\softiic.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+weact\softiic.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+weact\softiic.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+weact\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+weact\softiic.o: ../Core/Inc/stm32f4xx_hal_conf.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+weact\softiic.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+weact\softiic.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+weact\softiic.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+weact\softiic.o: ../Core/Inc/tim.h
+weact\softiic.o: ../Core/Inc/main.h

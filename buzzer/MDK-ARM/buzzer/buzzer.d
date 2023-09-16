@@ -1,0 +1,32 @@
+buzzer\buzzer.o: ..\bsp\buzzer.c
+buzzer\buzzer.o: ../Core/Inc/main.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+buzzer\buzzer.o: ../Core/Inc/stm32f1xx_hal_conf.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Include/core_cm3.h
+buzzer\buzzer.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Include/cmsis_version.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+buzzer\buzzer.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+buzzer\buzzer.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+buzzer\buzzer.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+buzzer\buzzer.o: ..\bsp\buzzer.h
+buzzer\buzzer.o: ../Core/Inc/gpio.h
+buzzer\buzzer.o: ../Core/Inc/tim.h

@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"tm1620\startup_stm32f103xb.o"
+"tm1620\main.o"
+"tm1620\gpio.o"
+"tm1620\rtc.o"
+"tm1620\stm32f1xx_it.o"
+"tm1620\stm32f1xx_hal_msp.o"
+"tm1620\stm32f1xx_hal_gpio_ex.o"
+"tm1620\stm32f1xx_hal_rtc.o"
+"tm1620\stm32f1xx_hal_rtc_ex.o"
+"tm1620\stm32f1xx_hal.o"
+"tm1620\stm32f1xx_hal_rcc.o"
+"tm1620\stm32f1xx_hal_rcc_ex.o"
+"tm1620\stm32f1xx_hal_gpio.o"
+"tm1620\stm32f1xx_hal_dma.o"
+"tm1620\stm32f1xx_hal_cortex.o"
+"tm1620\stm32f1xx_hal_pwr.o"
+"tm1620\stm32f1xx_hal_flash.o"
+"tm1620\stm32f1xx_hal_flash_ex.o"
+"tm1620\stm32f1xx_hal_exti.o"
+"tm1620\stm32f1xx_hal_tim.o"
+"tm1620\stm32f1xx_hal_tim_ex.o"
+"tm1620\system_stm32f1xx.o"
+"tm1620\tm1620.o"
+--strict --scatter "TM1620\TM1620.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TM1620.map" -o TM1620\TM1620.axf

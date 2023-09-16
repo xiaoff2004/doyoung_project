@@ -1,0 +1,36 @@
+game\task.o: task.c
+game\task.o: contrl.h
+game\task.o: ../Core/Inc/main.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\task.o: ../Core/Inc/stm32f4xx_hal_conf.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+game\task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+game\task.o: ../Drivers/CMSIS/Include/core_cm4.h
+game\task.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+game\task.o: ../Drivers/CMSIS/Include/cmsis_version.h
+game\task.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+game\task.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+game\task.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+game\task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+game\task.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+game\task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+game\task.o: ../bsp/servo.h
+game\task.o: task.h

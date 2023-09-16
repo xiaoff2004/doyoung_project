@@ -1,0 +1,34 @@
+game\ascii_8x16.o: ..\bsp\ASCII_8x16.c
+game\ascii_8x16.o: ..\bsp\ASCII_8x16.h
+game\ascii_8x16.o: ../Core/Inc/main.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\ascii_8x16.o: ../Core/Inc/stm32f4xx_hal_conf.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Include/core_cm4.h
+game\ascii_8x16.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Include/cmsis_version.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+game\ascii_8x16.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+game\ascii_8x16.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+game\ascii_8x16.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h

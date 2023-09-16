@@ -1,0 +1,33 @@
+duo\gpio.o: ../Core/Src/gpio.c
+duo\gpio.o: ../Core/Inc/gpio.h
+duo\gpio.o: ../Core/Inc/main.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+duo\gpio.o: ../Core/Inc/stm32f4xx_hal_conf.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+duo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+duo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+duo\gpio.o: ../Drivers/CMSIS/Include/core_cm4.h
+duo\gpio.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+duo\gpio.o: ../Drivers/CMSIS/Include/cmsis_version.h
+duo\gpio.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+duo\gpio.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+duo\gpio.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+duo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+duo\gpio.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+duo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h

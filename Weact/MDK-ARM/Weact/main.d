@@ -1,0 +1,41 @@
+weact\main.o: ../Core/Src/main.c
+weact\main.o: ../Core/Inc/main.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+weact\main.o: ../Core/Inc/stm32f4xx_hal_conf.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+weact\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+weact\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h
+weact\main.o: ../Drivers/CMSIS/Include/core_cm4.h
+weact\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+weact\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+weact\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+weact\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+weact\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+weact\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+weact\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+weact\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+weact\main.o: ../Core/Inc/dma.h
+weact\main.o: ../Core/Inc/tim.h
+weact\main.o: ../Core/Inc/usart.h
+weact\main.o: ../Core/Inc/gpio.h
+weact\main.o: ../bsp/TB6612.h
+weact\main.o: ../bsp/pid.h
+weact\main.o: ../bsp/oled.h
+weact\main.o: C:\keil MDK\ARM\ARMCC\Bin\..\include\stdio.h
